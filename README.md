@@ -1,4 +1,4 @@
 # Rock-Paper-And-Scissors
-This is a popular game around the world.
+Recreation of the rock paper scissors game using html, css & javascript
 
-https://juandeossa.github.io/Rock-Paper-And-Scissors/
+https://danielveraacero.github.io/Rock-Paper-And-Scissors/
